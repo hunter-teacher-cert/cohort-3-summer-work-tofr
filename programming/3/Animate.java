@@ -4,7 +4,9 @@
 
    USAGE:
    Make this file your own, and comment liberally as you explore...
+   Then use as basis for animating whatever you like. (Make a copy, rename, copy/paste, etc)
 
+   WORKFLOW:
    Read for understanding.
    Skim over delay(). Focus on animate() and main().
    Jot down / discuss predictions of what you will see when you run it.
